@@ -29,6 +29,7 @@ export default function Nav() {
               <image
                 className="w-12 rounded-full cursor-pointer"
                 src={user.photoURL}
+                alt="Profile picture"
               />
             </Link>
           </div>
